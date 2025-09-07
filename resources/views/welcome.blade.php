@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Biografía</title>
+    <title>Menú Principal</title>
     <style>
         body {
             margin: 0;
@@ -23,13 +23,20 @@
 
         header img {
             height: 50px;
+            cursor: pointer;
         }
 
-        header h2 {
-            margin: 0;
+        header nav a {
+            margin-left: 20px;
             color: white;
-            font-size: 1.5rem;
+            font-size: 1.2rem;
+            text-decoration: none;
             font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        header nav a:hover {
+            color: #003366;
         }
 
         main {
@@ -44,19 +51,15 @@
             text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
         }
 
-        /* Aquí ajustamos la foto como div */
-        .foto {
-            margin: 20px auto 0;
+        main img {
+            margin-top: 20px;
             width: 200px;
             height: 200px;
             border-radius: 50%;
             border: 5px solid white;
             box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-            background-image: url("/images/foto1.jpg");
-            background-size: cover;
-            /* llena el círculo */
-            background-position: center;
-            /* puedes cambiar: top, bottom, 50% 30%, etc */
+            object-fit: cover;
+            object-position: center;
         }
 
         footer {
@@ -73,18 +76,17 @@
 
 <body>
     <header>
-        <div class="logo">
+        <a href="{{ url('/') }}">
             <img src="/images/logo.png" alt="Mi Logo">
-        </div>
-        <div class="nombre">
-            <h2>Ralph Castellanos</h2>
-        </div>
+        </a>
+        <nav>
+            <a href="{{ url('/biografia') }}">Sobre mí</a>
+        </nav>
     </header>
 
     <main>
         <h1>Ralph Castellanos Couott</h1>
-        <!-- cambiamos el <img> por un div -->
-        <div class="foto"></div>
+        <img src="/images/foto1.jpg" alt="Mi Foto">
     </main>
 
     <footer>
