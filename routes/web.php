@@ -9,3 +9,7 @@ Route::get('/', function () {
 Route::get('/biografia', function () {
     return view('biografia');
 });
+
+Route::get('/experiencia-laboral', function () {
+    return view('explaboral');
+});
