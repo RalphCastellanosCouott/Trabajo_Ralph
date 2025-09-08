@@ -49,3 +49,4 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
 
 ### Rama: Habilidades
 - **Commit #1** → Se añadió la primera habilidad: Python.
+- **Commit #2** → Se añadió la segunda habilidad: Inglés Avanzado.

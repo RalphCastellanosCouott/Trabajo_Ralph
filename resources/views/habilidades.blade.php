@@ -78,6 +78,11 @@
             margin-bottom: 15px;
         }
 
+        .skill-card img.img-large {
+            width: 200px;
+            height: auto;
+        }
+
         .skill-card h3 {
             color: #ff8800;
             font-size: 1.3rem;
@@ -123,6 +128,16 @@
                 <p>
                     Lenguaje de programación que manejo con facilidad, aplicado en proyectos académicos y personales.
                     Me gusta por su versatilidad en desarrollo web, análisis de datos y automatización.
+                </p>
+            </div>
+
+            <div class="skill-card">
+                <img src="https://aprendeingles.grupovaughan.com/hubfs/7454886.webp" alt="Inglés" class="img-large">
+                <h3>Inglés Avanzado</h3>
+                <p>
+                    Gracias a mis estudios de inglés en la UIS, logré alcanzar un nivel alto en este idioma.
+                    Esta habilidad me permite comunicarme fluidamente y acceder a material académico y profesional en
+                    inglés.
                 </p>
             </div>
         </div>
