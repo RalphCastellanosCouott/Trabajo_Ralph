@@ -95,15 +95,12 @@
             gap: 40px;
         }
 
-        .bio-section:nth-child(even) {
+        main .bio-section:nth-of-type(even) {
             flex-direction: row-reverse;
         }
 
-        .bio-text {
-            flex: 1;
-            color: #f5f5f5;
-            font-size: 1.1rem;
-            line-height: 1.6;
+        .bio-section:last-of-type .bio-text {
+            color: #000;
         }
 
         .bio-text h2 {
@@ -114,8 +111,8 @@
         }
 
         .bio-image img {
-            width: 600px;
-            height: 800px;
+            width: 400px;
+            height: 500px;
             object-fit: cover;
             border-radius: 12px;
             box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.3);
@@ -126,7 +123,6 @@
             text-align: center;
             max-width: 1000px;
             display: block;
-            /* ✅ evita el flex de section */
         }
 
         .bio-gallery h2 {
@@ -328,7 +324,8 @@
                 <h2>Lo que hago actualmente</h2>
                 <p>
                     Estoy cursando el quinto semestre de Ingeniería de Sistemas. A lo largo de la
-                    carrera he aprendido distintos lenguajes de programación como <strong>Python</strong>, <strong>Java</strong> y <strong>Kotlin</strong>.
+                    carrera he aprendido distintos lenguajes de programación como <strong>Python</strong>,
+                    <strong>Java</strong> y <strong>Kotlin</strong>.
                     La programación es, sin duda, la parte que más disfruto, y me ha sorprendido lo mucho que me ha
                     gustado el mundo de las bases de datos, donde me he sentido especialmente cómodo.
                 </p>
@@ -339,7 +336,7 @@
                 <p>
                     Además, soy <strong>creador de contenido</strong> en YouTube y TikTok. En YouTube
                     hablo principalmente sobre videojuegos de Nintendo, mientras que en TikTok soy más
-                    variado: comento sobre videojuegos, libros, películas, series, música y todo lo que me apasiona. 
+                    variado: comento sobre videojuegos, libros, películas, series, música y todo lo que me apasiona.
                     Soy más constante en TikTok que en YouTube. También participo activamente en
                     X (antes Twitter), donde he construido una comunidad grande en torno a mi amor por los videojuegos,
                     y he conocido a personas con los mismos intereses.
@@ -347,6 +344,40 @@
             </div>
             <div class="bio-image">
                 <img src="/images/fotoActual.jpg" alt="Foto actual">
+            </div>
+        </section>
+
+        <hr class="section-separator">
+
+        <section class="bio-section">
+            <div class="bio-text">
+                <h2>Mis aspiraciones y metas</h2>
+
+                <h3>Metas profesionales</h3>
+                <ul>
+                    <li>Graduarme de Ingeniería de Sistemas con honores y especializarme en
+                        creación de aplicaciones móviles, el área que más me apasiona.</li>
+                    <li>Diseñar y desarrollar aplicaciones móviles que resuelvan problemas reales, ya
+                        sea propios o por encargo de clientes y familiares.</li>
+                    <li>Crear mi propio videojuego, un sueño que me ha acompañado toda mi vida y que me
+                        gustaría compartir con el mundo.</li>
+                </ul>
+
+                <h3>Metas personales</h3>
+                <ul>
+                    <li>Aprender un tercer idioma, en especial japonés, inspirado por
+                        mi gusto por series como <em>Dragon Ball Super</em> y <em>Pokémon</em> en su idioma original, y
+                        con la meta de visitar <em>Super Nintendo World</em> en Japón.</li>
+                    <li>Practicar un nuevo deporte, siendo la escalada mi principal opción tras mi experiencia con el
+                        baloncesto.</li>
+                    <li>Aprender a cantar y producir un álbum musical. La música de <em>Taylor
+                            Swift</em> ha sido una gran inspiración para mí y me motiva a explorar el mundo de la
+                        música.</li>
+                </ul>
+            </div>
+
+            <div class="bio-image">
+                <img src="/images/fotoMetas.jpg" alt="Foto representativa de aspiraciones">
             </div>
         </section>
 

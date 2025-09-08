@@ -36,3 +36,9 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
   - Intereses actuales: programación, bases de datos y desarrollo en Unity.
   - Creación de contenido en YouTube, TikTok y comunidad en X.
   - Imagen representativa.
+
+- **Commit #6** → Se añadió la sección **“Mis aspiraciones y metas”**, con:
+  - **Metas profesionales**: graduarme con honores, especializarme en apps móviles, crear aplicaciones útiles y desarrollar mi propio videojuego.  
+  - **Metas personales**: aprender japonés y visitar *Super Nintendo World* en Japón, practicar escalada, aprender a cantar y producir un álbum musical inspirado por Taylor Swift.  
+  - Texto en color negro para diferenciarlo del resto de secciones.  
+  - Imagen representativa.
