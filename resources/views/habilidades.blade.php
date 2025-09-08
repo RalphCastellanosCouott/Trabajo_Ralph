@@ -140,6 +140,17 @@
                     inglés.
                 </p>
             </div>
+
+            <div class="skill-card">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin">
+                <h3>Kotlin</h3>
+                <p>
+                    Lenguaje de programación en el que desarrollé, junto con mis compañeros, la aplicación móvil
+                    avanzada del Bus UNAB.
+                    Es uno de los lenguajes en los que más me he defendido y que me permitió trabajar con Android
+                    Studio.
+                </p>
+            </div>
         </div>
     </main>
 
