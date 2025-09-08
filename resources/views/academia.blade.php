@@ -21,7 +21,7 @@
             display: flex;
             flex-direction: column;
             font-family: Arial, Helvetica, sans-serif;
-            background: linear-gradient(90deg, var(--bg1), var(--bg2));
+            background: linear-gradient(to right, #00c6ff, #00ff87);
             color: var(--text);
         }
 
@@ -160,10 +160,10 @@
             <img src="/images/logo.png" alt="Mi Logo">
         </a>
         <nav>
-            <a href="{{ url('/biografia') }}">Sobre mí</a>
             <a href="{{ url('/experiencia-laboral') }}">Experiencia Laboral</a>
             <a href="{{ url('/habilidades') }}">Habilidades</a>
             <a href="{{ url('/academia') }}">Estudios</a>
+            <a href="{{ url('/biografia') }}">Sobre mí</a>
         </nav>
     </header>
 

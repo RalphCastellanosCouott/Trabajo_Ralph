@@ -113,10 +113,10 @@
             <img src="/images/logo.png" alt="Mi Logo">
         </a>
         <nav>
-            <a href="{{ url('/biografia') }}">Sobre mí</a>
             <a href="{{ url('/experiencia-laboral') }}">Experiencia Laboral</a>
             <a href="{{ url('/habilidades') }}">Habilidades</a>
             <a href="{{ url('/academia') }}">Estudios</a>
+            <a href="{{ url('/biografia') }}">Sobre mí</a>
         </nav>
     </header>
 

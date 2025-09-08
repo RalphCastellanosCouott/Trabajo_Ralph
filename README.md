@@ -43,8 +43,6 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
   - Texto en color negro para diferenciarlo del resto de secciones.  
   - Imagen representativa.
 
----
-
 ## 🌿 Cambios en ramas adicionales
 
 ### Rama: Experiencia Laboral
@@ -60,3 +58,13 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
 ### Rama: Academia
 - **Commit #1** → Se añadió la sección "Colegio", con narración sobre la etapa escolar en el Colegio de la Presentación de Bucaramanga (2011–2021).
 - **Commit #2** → Se añadió la sección "Universidad", con narración sobre los estudios en la Universidad Autónoma de Bucaramanga (UNAB), incluyendo el paso de Artes Audiovisuales a Ingeniería de Sistemas.
+
+
+## 🚀 Commit Final
+  - Se añadió la sección **“Cosas que me gustan”**, mostrando intereses personales:
+    - Música: Taylor Swift.
+    - Fórmula 1: Max Verstappen y Charles Leclerc.
+    - Literatura: Sarah J. Maas.
+    - Videojuegos: Nintendo.
+  - Se añadió animación flotante a la fotografía principal para dar dinamismo.
+  - Se mejoró el **footer** usando flexbox para que se mantenga siempre al final de la página, independientemente de la cantidad de contenido.
