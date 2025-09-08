@@ -192,7 +192,27 @@
                     </p>
                 </div>
             </article>
-                        
+            <article class="academy-card">
+                <div class="thumb">
+                    <img src="https://unab.edu.co/wp-content/uploads/2022/01/1.-Edificio-Armando-Puyana-Puyana.jpg"
+                        alt="UNAB Bucaramanga">
+                </div>
+
+                <div class="content">
+                    <span class="badge">Universidad</span>
+                    <div class="meta">
+                        <strong>Universidad Autónoma de Bucaramanga (UNAB)</strong>
+                        <p>2022 - Actualidad</p>
+                    </div>
+                    <h3>Ingeniería de Sistemas</h3>
+                    <p>
+                        Actualmente curso quinto semestre de Ingeniería de Sistemas. Inicialmente estudié Artes
+                        Audiovisuales (2022) pero tras
+                        completar dos semestres decidí cambiarme. En Ingeniería encontré mi vocación: proyectos,
+                        compañeros y un entorno donde me siento cómodo.
+                    </p>
+                </div>
+            </article>                        
         </div>
 
     </main>

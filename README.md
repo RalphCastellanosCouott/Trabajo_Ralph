@@ -49,3 +49,4 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
 
 ### Rama: Academia
 - **Commit #1** → Se añadió la sección "Colegio", con narración sobre la etapa escolar en el Colegio de la Presentación de Bucaramanga (2011–2021).
+- **Commit #2** → Se añadió la sección "Universidad", con narración sobre los estudios en la Universidad Autónoma de Bucaramanga (UNAB), incluyendo el paso de Artes Audiovisuales a Ingeniería de Sistemas.
