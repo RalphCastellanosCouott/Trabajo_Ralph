@@ -129,6 +129,18 @@
                 </p>
             </div>
 
+            <div class="experience-card">
+                <img src="https://www.clinicbarcelona.org/uploads/media/default/0001/97/1f481a6adf1a0e29cc92e6c9fe2403f9365c500d.jpeg"
+                    alt="Presentaciones médicas">
+                <h3>Apoyo en presentaciones para congresos médicos</h3>
+                <p>
+                    Colaboración en la creación y corrección de presentaciones en PowerPoint para mi papá,
+                    médico especialista, utilizadas en congresos y conferencias del área de la salud.
+                    El trabajo consistió en mejorar el diseño visual, la organización de los contenidos
+                    y asegurar que la información se presentara de manera clara y profesional.
+                </p>
+            </div>
+
         </div>
     </main>
 
