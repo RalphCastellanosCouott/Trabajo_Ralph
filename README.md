@@ -25,3 +25,8 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
   - Sección “Mi niñez” con texto descriptivo y fotografía.
   - Separadores (`hr`) para dividir contenidos entre secciones.
   - Galería de fotos con recuerdos familiares y personales.
+
+- **Commit #4** → Se añadió la sección "Mi adolescencia", con:
+  - Texto narrativo sobre esta etapa de la vida.
+  - Imagen representativa en estilo similar a la sección de niñez.
+  - Galería de fotos actualizada con imágenes de mi adolescencia

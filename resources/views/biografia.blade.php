@@ -152,7 +152,11 @@
         }
 
         .gallery-item img[alt="Con mis hermanos"] {
-            object-position: center 20%;
+            object-position: center 15%;
+        }
+
+        .gallery-item img[alt="En USA adolescente"] {
+            object-position: center 60%;
         }
 
         .gallery-item img:hover {
@@ -226,31 +230,94 @@
                 <p>
                     Tuve una infancia increíble y llena de momentos felices, sobre todo jugando y divirtiéndome con mis
                     hermanos.
-                    Durante esos años, mis padres descubrieron que era sordo, ya que siempre veía televisión con el volumen muy
-                    alto y demasiado cerca de la pantalla. Tras realizarme exámenes médicos, confirmaron que no escuchaba bien y
+                    Durante esos años, mis padres descubrieron que era sordo, ya que siempre veía televisión con el
+                    volumen muy
+                    alto y demasiado cerca de la pantalla. Tras realizarme exámenes médicos, confirmaron que no
+                    escuchaba bien y
                     además padecía de asma, por lo que necesitaba usar inhalador.
                 </p>
                 <p>
                     Gracias a una cirugía que resultó un éxito, logré escuchar perfectamente con el oído derecho y ya no
-                    requiero de inhalador para respirar. Sin embargo, el oído izquierdo quedó con pérdida total de la audición.
-                    Durante mi recuperación falté mucho al colegio, lo que llevó a mi mamá a decidir que repitiera ese grado
+                    requiero de inhalador para respirar. Sin embargo, el oído izquierdo quedó con pérdida total de la
+                    audición.
+                    Durante mi recuperación falté mucho al colegio, lo que llevó a mi mamá a decidir que repitiera ese
+                    grado
                     escolar.
                 </p>
                 <p>
                     Uno de los recuerdos más especiales de mi niñez fue un viaje familiar a Estados Unidos. Allí cumplí
-                    un gran sueño: conocer a mi personaje favorito de entonces, <strong>Thomas el Tren</strong>. Lo había visto
-                    en comerciales y pedí con insistencia a mis papás que me llevaran. Finalmente, lo hicieron y tuve la oportunidad de verlo
+                    un gran sueño: conocer a mi personaje favorito de entonces, <strong>Thomas el Tren</strong>. Lo
+                    había visto
+                    en comerciales y pedí con insistencia a mis papás que me llevaran. Finalmente, lo hicieron y tuve la
+                    oportunidad de verlo
                     en persona y hasta montarme en él.
                 </p>
                 <p>
                     En ese mismo viaje nació mi pasión por los videojuegos. Mi mamá, junto con mi madrina que vive en
-                    Estados Unidos, me regalaron una <strong>Nintendo Wii</strong> con <em>Wii Sports</em> y <em>Super Mario Galaxy</em>.
+                    Estados Unidos, me regalaron una <strong>Nintendo Wii</strong> con <em>Wii Sports</em> y <em>Super
+                        Mario Galaxy</em>.
                     Este último me atrapó por completo con su jugabilidad divertida, mundos coloridos y una banda sonora
                     maravillosa. Desde ese momento comenzó mi amor por los videojuegos, especialmente los de Nintendo.
                 </p>
             </div>
             <div class="bio-image">
                 <img src="/images/fotoNino.jpg" alt="Foto de mi niñez">
+            </div>
+        </section>
+
+        <hr class="section-separator">
+
+        <section class="bio-section">
+            <div class="bio-text">
+                <h2>Mi adolescencia</h2>
+                <p>
+                    Durante mi adolescencia, mi mamá siempre quiso que mis hermanos y yo estuviéramos involucrados en
+                    algún deporte.
+                    Para mí no fue sencillo encontrar uno que realmente me apasionara: pasé por taekwondo, natación y
+                    fútbol, sin sentirme
+                    del todo cómodo en ninguno de ellos. Finalmente, en el año 2017 descubrí el baloncesto, un deporte
+                    en el que logré
+                    destacar y sentirme pleno. Fui parte del grupo deportivo de mi colegio, representándolo en los
+                    campeonatos nacionales,
+                    donde conseguimos un memorable segundo lugar. Aunque no alcanzamos el primer puesto, la experiencia
+                    de competir y quedar
+                    como subcampeones fue increíble e inolvidable.
+                </p>
+                <p>
+                    Con el paso de los años también empecé a darme cuenta de la facilidad y el talento que tenía con la
+                    tecnología. Siempre
+                    había estado familiarizado con los computadores, las aplicaciones móviles y el funcionamiento de las
+                    páginas web, lo que
+                    me permitió descubrir cuál era mi verdadera vocación: ser ingeniero de sistemas. Sin embargo, antes
+                    de llegar a esa decisión,
+                    me matriculé en la carrera de Artes Audiovisuales, motivado por un pequeño curso que realicé en
+                    Estados Unidos y que me hizo
+                    pensar que ese sería mi camino profesional. Con el tiempo descubrí que no era lo mío y, aunque
+                    completé dos semestres, decidí
+                    retirarme. Ese fue un momento crucial en mi vida y agradezco profundamente a mi familia por el apoyo
+                    incondicional que me dieron.
+                    Al final, me cambié a Ingeniería de Sistemas, y ha sido la mejor decisión que pude tomar: me siento
+                    feliz, cómodo y convencido
+                    de que encontré el lugar al que pertenezco.
+                </p>
+                <p>
+                    Hacia el final de mi adolescencia también descubrí un nuevo hobbie: la lectura. Durante mis años de
+                    colegio no disfrutaba leer,
+                    pues la mayoría de los libros que me asignaban no lograban interesarme. Todo cambió cuando alguien
+                    me habló del libro
+                    <em>Boulevard</em> de Flor M. Salvador. Decidí darle una oportunidad y fue el inicio de una pasión
+                    que no ha hecho más que crecer.
+                    Desde entonces, mi colección de libros se ha ampliado con historias que me han marcado, como la saga
+                    <em>ACOTAR</em> de Sarah J. Maas,
+                    la icónica franquicia de <em>Harry Potter</em> y <em>El mapa de los anhelos</em> de Alice Kellen, un
+                    libro especialmente importante
+                    para mí, ya que me ayudó a tomar la decisión de cambiar de carrera. Hoy en día disfruto mucho leer
+                    novelas de romance y fantasía,
+                    dos géneros que me atrapan por sus historias de amor y sus mundos llenos de magia.
+                </p>
+            </div>
+            <div class="bio-image">
+                <img src="images/fotoJoven.jpg" alt="Foto de mi adolescencia">
             </div>
         </section>
 
@@ -272,7 +339,16 @@
                     <img src="/images/hermanos.jpg" alt="Con mis hermanos">
                 </div>
                 <div class="gallery-item">
-                    <img src="/images/familia3.jpg" alt="Con mis hermanos">
+                    <img src="/images/familia3.jpg" alt="Con mi familia niñez">
+                </div>
+                <div class="gallery-item">
+                    <img src="/images/baloncesto.jpg" alt="Equipo de baloncesto">
+                </div>
+                <div class="gallery-item">
+                    <img src="/images/familia4.jpg" alt="Con mi familia adolescente">
+                </div>
+                <div class="gallery-item">
+                    <img src="/images/foto2.jpg" alt="En USA adolescente">
                 </div>
             </div>
         </section>
