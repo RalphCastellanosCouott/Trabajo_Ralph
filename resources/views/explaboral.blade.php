@@ -141,6 +141,17 @@
                 </p>
             </div>
 
+            <div class="experience-card">
+                <img src="https://colegiodelapresentacion.edu.co/wp-content/uploads/2023/03/interclases-2023-94-840x430.jpg"
+                    alt="Edición de videos interclases">
+                <h3>Edición de videos y música</h3>
+                <p>
+                    Apoyo a mi mamá en la edición de videos y selección de música para las actividades
+                    de interclases del colegio donde estudia.
+                    La tarea incluyó edición de clips, ajustes de audio y sincronización musical
+                    para crear presentaciones atractivas y dinámicas.
+                </p>
+            </div>
         </div>
     </main>
 

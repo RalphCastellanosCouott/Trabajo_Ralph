@@ -42,3 +42,12 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
   - **Metas personales**: aprender japonés y visitar *Super Nintendo World* en Japón, practicar escalada, aprender a cantar y producir un álbum musical inspirado por Taylor Swift.  
   - Texto en color negro para diferenciarlo del resto de secciones.  
   - Imagen representativa.
+
+---
+
+## 🌿 Cambios en ramas adicionales
+
+### Rama: Experiencia Laboral
+- **Commit #1** → Se añadió la primera experiencia laboral: desarrollo de una aplicación móvil avanzada para el Bus UNAB.  
+- **Commit #2** → Se añadió la segunda experiencia laboral: apoyo en la creación y corrección de presentaciones para congresos médicos.  
+- **Commit #3** → Se añadió la tercera experiencia laboral: apoyo en edición de videos y música para interclases escolares.
