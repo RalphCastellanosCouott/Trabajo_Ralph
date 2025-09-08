@@ -42,3 +42,10 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
   - **Metas personales**: aprender japonés y visitar *Super Nintendo World* en Japón, practicar escalada, aprender a cantar y producir un álbum musical inspirado por Taylor Swift.  
   - Texto en color negro para diferenciarlo del resto de secciones.  
   - Imagen representativa.
+
+---
+
+## 🌿 Cambios en ramas adicionales
+
+### Rama: Habilidades
+- **Commit #1** → Se añadió la primera habilidad: Python.
