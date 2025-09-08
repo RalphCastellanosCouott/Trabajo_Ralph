@@ -176,6 +176,7 @@
         </a>
         <nav>
             <a href="{{ url('/biografia') }}">Sobre mí</a>
+            <a href="{{ url('/academia') }}">Estudios</a>
         </nav>
     </header>
 

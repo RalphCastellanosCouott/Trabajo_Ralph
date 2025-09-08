@@ -42,3 +42,10 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
   - **Metas personales**: aprender japonés y visitar *Super Nintendo World* en Japón, practicar escalada, aprender a cantar y producir un álbum musical inspirado por Taylor Swift.  
   - Texto en color negro para diferenciarlo del resto de secciones.  
   - Imagen representativa.
+
+---
+
+## 🌿 Cambios en ramas adicionales
+
+### Rama: Academia
+- **Commit #1** → Se añadió la sección "Colegio", con narración sobre la etapa escolar en el Colegio de la Presentación de Bucaramanga (2011–2021).
