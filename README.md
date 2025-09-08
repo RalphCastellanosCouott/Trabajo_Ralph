@@ -20,3 +20,8 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
   - Lugar de nacimiento.
   - Procedencia (padres y hermanos).
   - Mascota.
+
+- **Commit #3** → Se incluyeron nuevas secciones y mejoras:
+  - Sección “Mi niñez” con texto descriptivo y fotografía.
+  - Separadores (`hr`) para dividir contenidos entre secciones.
+  - Galería de fotos con recuerdos familiares y personales.
