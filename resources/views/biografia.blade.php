@@ -323,6 +323,35 @@
 
         <hr class="section-separator">
 
+        <section class="bio-section">
+            <div class="bio-text">
+                <h2>Lo que hago actualmente</h2>
+                <p>
+                    Estoy cursando el quinto semestre de Ingeniería de Sistemas. A lo largo de la
+                    carrera he aprendido distintos lenguajes de programación como <strong>Python</strong>, <strong>Java</strong> y <strong>Kotlin</strong>.
+                    La programación es, sin duda, la parte que más disfruto, y me ha sorprendido lo mucho que me ha
+                    gustado el mundo de las bases de datos, donde me he sentido especialmente cómodo.
+                </p>
+                <p>
+                    También tuve la oportunidad de crear un pequeño videojuego en Unity para una materia, una
+                    experiencia que me permitió acercarme a uno de mis grandes intereses: los videojuegos.
+                </p>
+                <p>
+                    Además, soy <strong>creador de contenido</strong> en YouTube y TikTok. En YouTube
+                    hablo principalmente sobre videojuegos de Nintendo, mientras que en TikTok soy más
+                    variado: comento sobre videojuegos, libros, películas, series, música y todo lo que me apasiona. 
+                    Soy más constante en TikTok que en YouTube. También participo activamente en
+                    X (antes Twitter), donde he construido una comunidad grande en torno a mi amor por los videojuegos,
+                    y he conocido a personas con los mismos intereses.
+                </p>
+            </div>
+            <div class="bio-image">
+                <img src="/images/fotoActual.jpg" alt="Foto actual">
+            </div>
+        </section>
+
+        <hr class="section-separator">
+
         <section class="bio-gallery">
             <h2>Galería de recuerdos</h2>
             <div class="gallery-grid">
@@ -349,6 +378,9 @@
                 </div>
                 <div class="gallery-item">
                     <img src="/images/foto2.jpg" alt="En USA adolescente">
+                </div>
+                <div class="gallery-item">
+                    <img src="/images/foto3.jpg" alt="En Medellín">
                 </div>
             </div>
         </section>

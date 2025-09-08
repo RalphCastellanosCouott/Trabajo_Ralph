@@ -30,3 +30,9 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
   - Texto narrativo sobre esta etapa de la vida.
   - Imagen representativa en estilo similar a la sección de niñez.
   - Galería de fotos actualizada con imágenes de mi adolescencia
+
+- **Commit #5** → Se añadió la sección "Lo que hago actualmente":
+  - Progreso académico (quinto semestre de Ingeniería de Sistemas).
+  - Intereses actuales: programación, bases de datos y desarrollo en Unity.
+  - Creación de contenido en YouTube, TikTok y comunidad en X.
+  - Imagen representativa.
