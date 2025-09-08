@@ -51,3 +51,8 @@ Este proyecto consiste en una página web personal desarrollada en **HTML** con 
 - **Commit #1** → Se añadió la primera experiencia laboral: desarrollo de una aplicación móvil avanzada para el Bus UNAB.  
 - **Commit #2** → Se añadió la segunda experiencia laboral: apoyo en la creación y corrección de presentaciones para congresos médicos.  
 - **Commit #3** → Se añadió la tercera experiencia laboral: apoyo en edición de videos y música para interclases escolares.
+
+### Rama: Habilidades
+- **Commit #1** → Se añadió la primera habilidad: Python.
+- **Commit #2** → Se añadió la segunda habilidad: Inglés Avanzado.
+- **Commit #3** → Se añadió la tercera habilidad: Kotlin.

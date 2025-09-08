@@ -13,3 +13,7 @@ Route::get('/biografia', function () {
 Route::get('/experiencia-laboral', function () {
     return view('explaboral');
 });
+
+Route::get('/habilidades', function () {
+    return view('habilidades');
+});

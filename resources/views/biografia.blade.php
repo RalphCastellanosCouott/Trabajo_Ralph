@@ -177,6 +177,7 @@
         <nav>
             <a href="{{ url('/biografia') }}">Sobre mí</a>
             <a href="{{ url('/experiencia-laboral') }}">Experiencia Laboral</a>
+            <a href="{{ url('/habilidades') }}">Habilidades</a>
         </nav>
     </header>
 
